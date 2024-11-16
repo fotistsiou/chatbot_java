@@ -1,4 +1,4 @@
-package fotistsiou.java.chatbot;
+package fotistsiou.java.chatbot.step_5;
 
 import java.util.Scanner;
 
