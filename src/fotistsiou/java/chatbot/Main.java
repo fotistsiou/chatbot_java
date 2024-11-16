@@ -1,4 +1,4 @@
-package fotistsiou.java.botdy;
+package fotistsiou.java.chatbot;
 
 import java.util.Scanner;
 
