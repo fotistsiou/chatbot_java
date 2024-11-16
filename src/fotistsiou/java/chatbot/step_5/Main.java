@@ -1,20 +1,24 @@
 package fotistsiou.java.chatbot.step_5;
 
+import java.time.LocalDate;
 import java.util.Scanner;
 
 public class Main {
     final static Scanner scanner = new Scanner(System.in);
+    public final static String botName = "Botty";
+    public static int currentYear = LocalDate.now().getYear();
 
     public static void main(String[] args) {
-        greet("Botdy", "2024");
+        greet(Main.botName, Main.currentYear);
         remindName();
         guessAge();
         count();
         test();
         end();
+        scanner.close();
     }
 
-    static void greet(String assistantName, String birthYear) {
+    static void greet(String assistantName, int birthYear) {
         System.out.println("Hello! My name is " + assistantName + ".");
         System.out.println("I was created in " + birthYear + ".");
         System.out.println("Please, remind me your name.");
@@ -64,4 +68,3 @@ public class Main {
         System.out.println("Congratulations, have a nice day!");
     }
 }
-
