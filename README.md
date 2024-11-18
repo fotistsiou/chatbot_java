@@ -5,6 +5,7 @@
 > * **Course**: [Introduction to Java](https://hyperskill.org/courses/8-introduction-to-java)
 > * **Project**: [Simple Chat Bot with Java](https://hyperskill.org/projects/113?track=8)
 > * **Description**: Practice Java basics by building a tool that can assist you in your daily tasks.
+> * **Powered by**: [Hyperskill](https://hyperskill.org/)
 
 ## About
 Begin grasping coding fundamentals by creating a simple console chat bot from scratch. This bot will be able to engage 
