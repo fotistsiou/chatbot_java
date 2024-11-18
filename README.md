@@ -1,7 +1,10 @@
 # Simple Chat Bot with Java
-**Level**: 🌟 Easy | **Time**: 🕒 ~5 hours
 
-Practice Java basics by building a tool that can assist you in your daily tasks.
+## Project Details
+> * **Level**: 🌟 Easy | **Time**: 🕒 ~5 hours
+> * **Course**: [Introduction to Java](https://hyperskill.org/courses/8-introduction-to-java)
+> * **Project**: [Simple Chat Bot with Java](https://hyperskill.org/projects/113?track=8)
+> * **Description**: Practice Java basics by building a tool that can assist you in your daily tasks.
 
 ## About
 Begin grasping coding fundamentals by creating a simple console chat bot from scratch. This bot will be able to engage 
@@ -47,5 +50,3 @@ to get it built. Here’s what awaits you:
 * Stage 5/5: Play a simple quiz together
   * At this point, the assistant will be able to check your knowledge and ask multiple-choice questions. Add some 
     functions to your code and make the stage even better.
-
-> **Project powered by** [Hyperskill.org](https://hyperskill.org/projects/113?track=8)

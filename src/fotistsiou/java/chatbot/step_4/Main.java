@@ -3,6 +3,16 @@ package fotistsiou.java.chatbot.step_4;
 import java.time.LocalDate;
 import java.util.Scanner;
 
+/**
+ * Teach your bot to count
+ * -----------------------
+ * Description
+ * Now you will teach your bot to count. It's going to become an expert in numbers!
+ * -----------------------
+ * Objective
+ * In this stage, you will program the bot to count from 0 to any positive number users enter.
+ */
+
 public class Main {
     public final static String botName = "Botty";
     public static int currentYear = LocalDate.now().getYear();
