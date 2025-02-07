@@ -1,7 +1,7 @@
 # Simple Chat Bot with Java
 
 ## Project Details
-> - **Level**: 🌟 Easy | **Time**: 🕒 ~5 hours
+> - **Level**: 🌟 Easy | **Time**: 🕒 ~6 hours
 > - **Course**: [Introduction to Java](https://hyperskill.org/courses/8-introduction-to-java)
 > - **Project**: [Simple Chat Bot with Java](https://hyperskill.org/projects/113?track=8)
 > - **Description**: Practice Java basics by building a tool that can assist you in your daily tasks.
@@ -48,6 +48,11 @@ to get it built. Here’s what awaits you:
     - Conditional statement
     - One-line condition with ternary operator
     - For loop
+    - IDE
+    - What are bugs
+    - Debugging overview
+    - Run and debug with IntelliJ IDEA
+    - Debugging simple constructs
 - Stage 5/5: Play a simple quiz together
   - At this point, the assistant will be able to check your knowledge and ask multiple-choice questions. Add some 
     functions to your code and make the stage even better.
